@@ -1,2 +1,3 @@
-# IGTUsecaseCode
-Simulation code associated with the final use case report for IGT course
+Run simulation with:
+
+% python .\run_experiments.py
